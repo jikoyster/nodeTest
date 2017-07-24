@@ -1,0 +1,23 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "npm package test",
+  "main": "index.js",
+  "devDependencies" : {
+    "jquery": "3.2.1",
+    "bootstrap": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jikoyster/nodeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jikoyster/nodeTest/issues"
+  },
+  "homepage": "https://github.com/jikoyster/nodeTest#readme"
+}
