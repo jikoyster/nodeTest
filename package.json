@@ -1,20 +1,22 @@
 {
-  "name": "nodetest",
+  "name": "node_test",
   "version": "1.0.0",
-  "description": "npm package test",
+  "description": "nodejs test code",
   "main": "index.js",
-  "devDependencies" : {
-    "jquery": "3.2.1",
-    "bootstrap": ""
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "",
+    "jquery": "",
+    "angularjs": ""
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "console.log(\"running nodejs\")"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jikoyster/nodeTest.git"
+    "url": "git+https://jikoyster:90S3ID0n00@github.com/jikoyster/nodeTest.git"
   },
-  "author": "",
+  "author": "Jake Yu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jikoyster/nodeTest/issues"
