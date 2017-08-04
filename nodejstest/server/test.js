@@ -1,5 +1,5 @@
 const test = (msg) => {
-	console.log(msg);
+	console.log("on test.js: " + msg);
 };
 
 export default test;
